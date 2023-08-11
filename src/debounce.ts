@@ -1,5 +1,5 @@
-// tslint:disable-next-line:no-empty
 export function debounce(
+  // tslint:disable-next-line:no-empty
   callback = () => {},
   delay = 1e3,
   leading = false,
